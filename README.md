@@ -8,4 +8,6 @@
 1. Create venv and install streamlit and pandasai : pip install streamlit pandasai
 1. Ensure .env is in gitignore & add .env file with OPENAI_API_KEY=<<Your OPENAI Key>>
 1. Run app : streamlit run main.py
-1. 
+1. Example questions:
+    1. who was more likely to survive , males or females ? 
+    1. How many passengers over the age of 50 survived ? How many below the age of 50 survived ? 
